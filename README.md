@@ -1,12 +1,6 @@
-# PharmaSQL:Transforming-E-Pharmacy-Data-Management
-
-I spearheaded data modeling and database management for an E-pharmacy platform, yielding the following notable achievements:
-
-1. Crafted and executed meticulous conceptual and logical data models employing E-R diagrams. This precision ensured the faithful representation of database requirements, streamlining data management for optimal efficiency.
-   
-2. Architected and implemented a resilient SQL database boasting more than 18 tables, views, and stored procedures. This strategic move not only harmonized data but also elevated overall productivity.
-   
-3. Revolutionized SQL queries on SQL Server, delivering a remarkable 30% boost in database server performance. This enhancement translated to swifter response times, greatly benefitting team members who relied on the data.
-
-
-
+# E-Pharmacy-Management-System
+Data modelling and database management for E-pharmacy platform
+Key Highlights:
+1. Designed and implemented conceptual and logical data models using E-R diagrams, ensuring accurate representation of database requirements and facilitating efficient data management.
+2. Developed and implemented a robust SQL database consisting of over 18 tables, views, and stored procedures, resulting in improved data organization and increased productivity.
+3. Optimized SQL queries on SQL Server, achieving 30% improvement in database server performance enabling faster response times for team members accessing the data.
